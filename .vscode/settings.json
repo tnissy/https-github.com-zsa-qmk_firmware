@@ -1,6 +1,7 @@
 {
     "git.ignoreLimitWarning": true,
     "files.associations": {
-        "keymap_spanish.h": "c"
+        "keymap_spanish.h": "c",
+        "keymap_jp.h": "c"
     }
 }
